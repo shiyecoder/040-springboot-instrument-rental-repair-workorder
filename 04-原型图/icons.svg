@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="i-dashboard" viewBox="0 0 24 24"><path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"/></symbol>
+  <symbol id="i-instrument" viewBox="0 0 24 24"><path d="M12 2a4 4 0 0 0-4 4v6a4 4 0 1 0 8 0V6a4 4 0 0 0-4-4zm0 18a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/></symbol>
+  <symbol id="i-order" viewBox="0 0 24 24"><path d="M6 2h12v20l-6-3-6 3V2z"/></symbol>
+  <symbol id="i-repair" viewBox="0 0 24 24"><path d="M14 2l-2 6 4 4 6-2-8-8zM4 20l6-6-2-2-6 6 2 2z"/></symbol>
+  <symbol id="i-rule" viewBox="0 0 24 24"><path d="M4 6h16v2H4V6zm0 5h10v2H4v-2zm0 5h16v2H4v-2z"/></symbol>
+  <symbol id="i-user" viewBox="0 0 24 24"><path d="M12 12a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm0 2c-4 0-8 2-8 6v2h16v-2c0-4-4-6-8-6z"/></symbol>
+  <symbol id="i-bell" viewBox="0 0 24 24"><path d="M12 2a6 6 0 0 0-6 6v5l-2 3h16l-2-3V8a6 6 0 0 0-6-6zm0 20a3 3 0 0 0 3-3H9a3 3 0 0 0 3 3z"/></symbol>
+  <symbol id="i-calendar" viewBox="0 0 24 24"><path d="M7 2v2H4v18h16V4h-3V2h-2v2H9V2H7zm11 8v10H6V10h12z"/></symbol>
+</svg>
